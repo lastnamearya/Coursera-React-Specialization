@@ -1,0 +1,19 @@
+{
+  "name": "coursera-react",
+  "version": "1.0.0",
+  "description": "React Specialization",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lastnamearya/Coursera-React-Specialization.git"
+  },
+  "author": "lastnamearya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lastnamearya/Coursera-React-Specialization/issues"
+  },
+  "homepage": "https://github.com/lastnamearya/Coursera-React-Specialization#readme"
+}
