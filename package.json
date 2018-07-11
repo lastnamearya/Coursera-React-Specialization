@@ -4,7 +4,9 @@
   "description": "React Specialization",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
   },
   "repository": {
     "type": "git",
@@ -15,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/lastnamearya/Coursera-React-Specialization/issues"
   },
-  "homepage": "https://github.com/lastnamearya/Coursera-React-Specialization#readme"
+  "homepage": "https://github.com/lastnamearya/Coursera-React-Specialization#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
 }
