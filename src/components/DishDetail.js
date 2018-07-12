@@ -26,7 +26,7 @@ const Details = ({ dish }) => {
         <CardTitle heading="true">{dish.name}</CardTitle>
         <CardText>{dish.description}</CardText>
       </CardBody>
-      <div className="container">
+      <div className="col-12 col-md-5 m-1">
         <h5>Comments</h5>
         <ul className='list-unstyled'>
           {comments}
